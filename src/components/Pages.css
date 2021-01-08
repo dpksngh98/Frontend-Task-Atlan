@@ -1,0 +1,9 @@
+.modalcss{
+    background: rgb(57,11,88);
+    color:blue;
+    background: linear-gradient(90deg, rgba(57,11,88,1) 11%, rgba(231,8,203,1) 65%, rgba(236,130,161,1) 100%);
+}
+.head{
+    color:black;
+    text-align:center;
+}
