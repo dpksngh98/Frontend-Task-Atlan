@@ -116,16 +116,6 @@ function Navigation(){
       alt="Third slide"
     />
   </Carousel.Item>
-
-  <Carousel.Item>
-    <img
-      className="d-block w-100 h-100"
-      src="https://im.rediff.com/cricket/2020/sep/17raj-royals1.jpg"
-      alt="Third slide"
-    />
-  </Carousel.Item>
-
-  
 </Carousel>
 </div>
 
