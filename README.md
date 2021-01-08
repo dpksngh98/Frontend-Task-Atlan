@@ -19,7 +19,7 @@ Create a discovery page for IPL where users can search & use facet filters to fi
 Initially my page load time was around 10-13 seconds. Then i reduced the size of images and used components to stop refreshing of page everytime, that's why i have used reactjs. Now i achieved load time of (2.1-3.0) seconds. I have used tools like GTmatrix and Web.Dev to measure all the parameters.
 
 ## Project link
-      [Click here](https://keen-hoover-4b36d4.netlify.app/)
+     [Click here](https://keen-hoover-4b36d4.netlify.app/).
 
 # Getting Started with Create React App
 
