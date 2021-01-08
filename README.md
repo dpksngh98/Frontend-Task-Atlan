@@ -1,3 +1,23 @@
+# Frontend-Task-Atlan
+----
+
+## Task
+----
+Create a discovery page for IPL where users can search & use facet filters to find different entities – players, teams, owners & venus. Users should be able to filter based on any attributes related to the entity. Make it as easy, intuitive and as less steps as possible for the user to reach a particular entity.
+
+## Tech Stack Used
+----
+1) Reactjs javascript framework
+2) HTML
+3) CSS3
+4) Bootstrap 4.5
+5) Netify for hosting
+----
+
+## Page Load Time
+----
+Initially my page load time was around 10-13 seconds. Then i reduced the size of images and used components to stop refreshing of page everytime, that's why i have used reactjs. Now i achieved load time of (2.1-3.0) seconds. I have used tools like GTmatrix and Web.Dev to measure all the parameters.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -45,26 +65,3 @@ You can learn more in the [Create React App documentation](https://facebook.gith
 
 To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
